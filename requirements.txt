@@ -1,0 +1,18 @@
+pytorch >= 1.10.0
+sacremoses == 0.0.41
+sacrebleu == 1.5.1
+fastBPE == 0.1.0
+streamlit >= 1.13.0
+scikit-learn >= 1.0.2
+seaborn >= 0.12.1
+matplotlib==3.7.5
+numba==0.58.1
+numexpr==2.8.6
+numpy==1.24.4
+pandas==2.0.3
+scikit-learn==1.3.2
+scipy==1.10.1
+sympy==1.12.1
+sympytorch==0.1.4
+transformers==4.42.1
+wandb==0.17.3
