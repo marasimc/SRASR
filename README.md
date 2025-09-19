@@ -2,7 +2,7 @@
 
 ## Overview
 
-SRASR is a syntax-aware, retrieval-augmented framework for symbolic regression. It exploits the structure of expressions to retrieve relevant tokens from a datastore and employs an entropy-based network to adaptively fuse neural and retrieved predictions, achieving improved performance over standard neural symbolic regression models.
+SRASR is a syntax-aware retrieval-augmented framework for symbolic regression. It retrieves structure-relevant tokens and adaptively fuses them with neural predictions, yielding superior performance over standard models.
 
 ## Environment Setup
 
@@ -33,7 +33,7 @@ bash run.sh
 
 ## Acknowledgements
 
-This work is mainly refers to the following codebases. We gratefully thank the authors for open-sourcing their excellent work.
+This work is mainly refers to the following codebases. We sincerely thank the authors for open-sourcing their excellent work.
 
 * [kNN-Box](https://github.com/NJUNLP/knn-box)
 * [symbolicregression](https://github.com/facebookresearch/symbolicregression)
